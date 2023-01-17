@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.break_a_deak">
    <application
-        android:label="break_a_deak"
+        android:label="Deal"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
