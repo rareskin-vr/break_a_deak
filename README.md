@@ -2,15 +2,6 @@
 
 Shopping simplified
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/72254221/212971831-421391c7-b695-42f8-a37f-1b8fd7d706b9.png)
+![image](https://user-images.githubusercontent.com/72254221/212971920-f525b5ac-4241-4670-8cf8-db10d8fb52ec.png)
+![image](https://user-images.githubusercontent.com/72254221/212972124-16ec8f9b-612f-4ead-8297-d9a7c22de74d.png)
